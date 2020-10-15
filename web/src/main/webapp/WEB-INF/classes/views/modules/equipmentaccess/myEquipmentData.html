@@ -1,0 +1,79 @@
+<% layout('/layouts/default.html', {title: 'opcua设备接入', libs: ['validate']}){ %>
+<div class="main-content">
+	<div class="box box-main">
+		<div class="box-header with-border">
+			<div class="box-title">
+				<!--<i class="fa fa-bar-chart"></i> ${text(myEquipment.isNewRecord ? '新增opcua设备' : '编辑opcua设备')}-->
+				<i class="fa fa-bar-chart"></i> ${text(+myEquipment.equipmentName  + '的数据')}
+				<br>
+			</div>
+		</div>
+
+
+		<div style="width: 25%;border-radius: 5px; margin: 20px 20px 50px 550px; border: #9cc2cb 1px solid;float: left" >
+
+			<ul class="list-group">
+				<li class="list-group-item">${text(opcUAServerName)}</li>
+
+				<li class="list-group-item">${text(attr0 + ' : ' +attrNum0)}</li>
+                <!-- 0或者1 -->
+				<div class="progress">
+					<div id="attr0" class="progress-bar progress-bar-info progress-bar-striped active" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="1" style="width: 20%">
+						<span class="sr-only">20% Complete</span>
+					</div>
+				</div>
+
+				<li class="list-group-item">${text(attr1 + ' : ' +attrNum1)}</li>
+				<!--0-100-->
+				<div class="progress">
+					<div id="attr1" class="progress-bar progress-bar-warning progress-bar-striped active" role="progressbar" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
+						<span class="sr-only">60% Complete (warning)</span>
+					</div>
+				</div>
+
+				<li class="list-group-item">${text(attr2 + ' : ' +attrNum2)}</li>
+				<div class="progress">
+					<!--0-500-->
+					<div id="attr2" class="progress-bar progress-bar-danger progress-bar-striped active" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="500" style="width: 80%">
+						<span class="sr-only">80% Complete (danger)</span>
+					</div>
+				</div>
+
+				<li class="list-group-item">${text(attr3 + ' : ' +attrNum3)}</li>
+				<div class="progress">
+					<!--0-50-->
+					<div id="attr3" class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="50" style="width: 100%">
+						<span class="sr-only">45% Complete</span>
+					</div>
+				</div>
+			</ul>
+
+		</div>
+
+
+
+	</div>
+</div>
+<% } %>
+<script>
+
+//    var myDiv = document.getElementById("myDiv");
+var attr0 = document.getElementById("attr0");
+var attr1 = document.getElementById("attr1");
+var attr2 = document.getElementById("attr2");
+var attr3 = document.getElementById("attr3");
+
+var num0 = Number(${text(attrNum0)})*100/1;
+
+var num1 = Number(${text(attrNum1)})*100/100;
+var num2 = Number(${text(attrNum2)})*100/500;
+var num3 = Number(${text(attrNum3)})*100/50;
+
+attr0.style.width = num0 + "%";
+attr1.style.width = num1 + "%";
+attr2.style.width = num2 + "%";
+attr3.style.width = num3 + "%";
+
+
+
+</script>

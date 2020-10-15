@@ -1,0 +1,1682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/web/src/main/resources/views/modules/equipmentaccess/myEquipmentList2.html" line="102" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52798e37-0359-4e10-9edf-207aaad82cc8" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/src/main/resources/views/modules/equipmentaccess/myEquipmentData.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/src/main/resources/views/modules/equipmentaccess/myEquipmentList2.html" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/com/jeesite/modules/equipmentaccess/dao/MyEquipmentDao.java" afterPath="$PROJECT_DIR$/web/src/main/java/com/jeesite/modules/equipmentaccess/dao/MyEquipmentDao.java" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/com/jeesite/modules/equipmentaccess/service/MyEquipmentService.java" afterPath="$PROJECT_DIR$/web/src/main/java/com/jeesite/modules/equipmentaccess/service/MyEquipmentService.java" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/com/jeesite/modules/equipmentaccess/web/MyEquipmentController.java" afterPath="$PROJECT_DIR$/web/src/main/java/com/jeesite/modules/equipmentaccess/web/MyEquipmentController.java" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/resources/mappings/modules/equipmentaccess/MyEquipmentDao.xml" afterPath="$PROJECT_DIR$/web/src/main/resources/mappings/modules/equipmentaccess/MyEquipmentDao.xml" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/resources/views/modules/equipmentaccess/myEquipmentList.html" afterPath="$PROJECT_DIR$/web/src/main/resources/views/modules/equipmentaccess/myEquipmentList.html" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/classes/com/jeesite/modules/equipmentaccess/dao/MyEquipmentDao.class" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/classes/com/jeesite/modules/equipmentaccess/dao/MyEquipmentDao.class" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/classes/com/jeesite/modules/equipmentaccess/service/MyEquipmentService.class" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/classes/com/jeesite/modules/equipmentaccess/service/MyEquipmentService.class" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/classes/com/jeesite/modules/equipmentaccess/web/MyEquipmentController.class" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/classes/com/jeesite/modules/equipmentaccess/web/MyEquipmentController.class" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/classes/logs/debug.log" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/classes/logs/debug.log" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/classes/logs/error.log" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/classes/logs/error.log" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/classes/mappings/modules/equipmentaccess/MyEquipmentDao.xml" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/classes/mappings/modules/equipmentaccess/MyEquipmentDao.xml" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/classes/views/modules/equipmentaccess/myEquipmentList.html" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/classes/views/modules/equipmentaccess/myEquipmentList.html" />
+      <change beforePath="$PROJECT_DIR$/web/src/test/java/com/jeesite/test/Test.java" afterPath="$PROJECT_DIR$/web/src/test/java/com/jeesite/test/Test.java" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/com/jeesite/modules/Application.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/com/jeesite/modules/test/dao/TestDataChildDao.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/com/jeesite/modules/test/dao/TestDataDao.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/com/jeesite/modules/test/dao/TestTreeDao.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/com/jeesite/modules/test/db/InitTestData.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/com/jeesite/modules/test/entity/TestData.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/com/jeesite/modules/test/entity/TestDataChild.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/com/jeesite/modules/test/entity/TestTree.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/com/jeesite/modules/test/service/TestDataService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/com/jeesite/modules/test/service/TestTreeService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/com/jeesite/modules/test/web/DemoController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/com/jeesite/modules/test/web/TestDataController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/com/jeesite/modules/test/web/TestTreeController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/config/application.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/config/beetl.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/config/logback-spring.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/config/ueditor.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/db/create/h2/test.sql" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/db/create/mssql/test.sql" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/db/create/mysql/test.sql" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/db/create/oracle/test.sql" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/db/create/postgresql/test.sql" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/mappings/modules/test/TestDataChildDao.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/mappings/modules/test/TestDataDao.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/mappings/modules/test/TestTreeDao.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/static/common/common.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/static/common/common.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/static/favicon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/views/modules/demo/demoDataGridEditGrid.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/views/modules/demo/demoDataGridGroupGrid.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/views/modules/demo/demoDataGridMultiGrid.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/views/modules/demo/demoFormEditForm.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/views/modules/demo/demoFormLayoutForm.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/views/modules/demo/demoFormTabPage.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/views/modules/demo/demoFormTableForm.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/views/modules/test/testDataForm.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/views/modules/test/testDataList.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/views/modules/test/testTreeForm.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/classes/views/modules/test/testTreeList.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/SparseBitSet-1.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/UserAgentUtils-1.21.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/activation-1.1.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/ant-1.10.7.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/ant-launcher-1.10.7.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/antlr4-runtime-4.7.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/aspectjrt-1.9.6.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/aspectjweaver-1.9.6.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/atomikos-util-4.0.6.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/beetl-3.1-SNAPSHOT.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/blade-patchca-1.1.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/byte-buddy-1.10.14.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/caffeine-2.8.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/cas-client-core-3.2.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/checker-qual-3.5.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/classmate-1.5.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/common-image-3.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/common-io-3.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/common-lang-3.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/commons-beanutils-1.9.4.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/commons-codec-1.13.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/commons-collections-3.2.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/commons-collections4-4.4.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/commons-compress-1.19.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/commons-email-1.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/commons-fileupload-1.4.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/commons-io-2.6.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/commons-lang3-3.9.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/commons-logging-1.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/commons-math3-3.6.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/commons-pool2-2.7.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/commons-text-1.8.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/core-3.4.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/curvesapi-1.06.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/dom4j-2.1.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/druid-1.1.22.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/encoder-1.2.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/error_prone_annotations-2.4.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/fastjson-1.2.70.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/fst-2.57.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/guava-20.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/h2-1.4.200.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/hamcrest-2.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/hamcrest-core-2.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/hibernate-validator-6.0.20.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/httpclient-4.5.12.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/httpcore-4.4.13.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/imageio-core-3.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/imageio-jpeg-3.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/imageio-metadata-3.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/j2cache-core-2.8.0-release.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/jackson-annotations-2.11.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/jackson-core-2.11.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/jackson-databind-2.11.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/jackson-dataformat-xml-2.11.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/jackson-datatype-jdk8-2.11.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/jackson-datatype-jsr310-2.11.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/jackson-module-jaxb-annotations-2.11.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/jackson-module-parameter-names-2.11.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/jai-imageio-core-1.4.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/jakarta.activation-api-1.2.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/jakarta.annotation-api-1.3.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/jakarta.transaction-api-1.3.3.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/jakarta.validation-api-2.0.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/jakarta.xml.bind-api-2.3.3.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/javase-3.4.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/javassist-3.21.0-GA.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/javax.mail-1.5.6.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/jaxen-1.2.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/jboss-logging-3.4.1.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/jcl-over-slf4j-1.7.30.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/jcommander-1.72.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/jeesite-common-4.2.1-SNAPSHOT.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/jeesite-framework-4.2.1-SNAPSHOT.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/jeesite-module-core-4.2.1-SNAPSHOT.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/jeesite-module-swagger-4.2.1-SNAPSHOT.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/jline-2.14.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/jmimemagic-0.1.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/jsoup-1.12.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/jsqlparser-3.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/jtds-1.3.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/jul-to-slf4j-1.7.30.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/junit-4.12.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/lettuce-core-5.2.2.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/log4j-api-2.12.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/log4j-over-slf4j-1.7.30.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/log4j-to-slf4j-2.12.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/logback-classic-1.2.3.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/logback-core-1.2.3.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/lombok-1.18.12.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/mapstruct-1.2.0.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/mchange-commons-java-0.2.15.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/mybatis-3.5.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/mybatis-spring-2.0.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/mysql-connector-java-8.0.11.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/netty-buffer-4.1.52.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/netty-codec-4.1.52.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/netty-common-4.1.52.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/netty-handler-4.1.52.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/netty-resolver-4.1.52.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/netty-transport-4.1.52.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/objenesis-2.5.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/ojdbc6-11.2.0.3.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/pinyin4j-2.5.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/poi-4.1.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/poi-ooxml-4.1.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/poi-ooxml-schemas-4.1.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/poi-scratchpad-4.1.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/postgresql-42.2.16.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/quartz-2.3.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/reactive-streams-1.0.3.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/reactor-core-3.3.10.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/shiro-cache-1.6.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/shiro-cas-1.6.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/shiro-config-core-1.6.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/shiro-config-ogdl-1.6.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/shiro-core-1.6.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/shiro-crypto-cipher-1.6.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/shiro-crypto-core-1.6.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/shiro-crypto-hash-1.6.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/shiro-event-1.6.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/shiro-lang-1.6.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/shiro-spring-1.6.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/shiro-web-1.6.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/slf4j-api-1.7.30.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/snakeyaml-1.25.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/spring-aop-5.2.9.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/spring-beans-5.2.9.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/spring-boot-2.2.10.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/spring-boot-autoconfigure-2.2.10.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/spring-boot-starter-2.2.10.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/spring-boot-starter-cache-2.2.10.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/spring-boot-starter-data-redis-2.2.10.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/spring-boot-starter-json-2.2.10.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/spring-boot-starter-jta-atomikos-2.2.10.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/spring-boot-starter-logging-2.2.10.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/spring-boot-starter-validation-2.2.10.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/spring-boot-starter-web-2.2.10.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/spring-boot-test-2.2.10.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/spring-context-5.2.9.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/spring-context-support-5.2.9.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/spring-core-5.2.9.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/spring-data-commons-2.2.10.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/spring-data-keyvalue-2.2.10.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/spring-data-redis-2.2.10.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/spring-expression-5.2.9.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/spring-jcl-5.2.9.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/spring-jdbc-5.2.9.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/spring-oxm-5.2.9.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/spring-plugin-core-1.2.0.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/spring-plugin-metadata-1.2.0.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/spring-test-5.2.9.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/spring-tx-5.2.9.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/spring-web-5.2.9.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/spring-webmvc-5.2.9.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/springfox-core-2.9.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/springfox-schema-2.9.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/springfox-spi-2.9.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/springfox-spring-web-2.9.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/springfox-swagger-common-2.9.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/springfox-swagger-ui-2.9.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/springfox-swagger2-2.9.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/stax2-api-4.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/swagger-annotations-1.6.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/swagger-models-1.5.20.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/thumbnailator-0.4.11.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/transactions-4.0.6.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/transactions-api-4.0.6.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/transactions-jdbc-4.0.6.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/transactions-jms-4.0.6.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/transactions-jta-4.0.6.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/woodstox-core-6.2.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/lib/xmlbeans-3.1.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/startup.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/startup.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/jeesite-web/WEB-INF/web.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/test-classes/com/jeesite/test/Test.class" afterPath="$PROJECT_DIR$/web/target/test-classes/com/jeesite/test/Test.class" />
+      <change beforePath="$PROJECT_DIR$/web/target/web.war" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/target/web.war.original" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/common/target/" />
+    <ignored path="$PROJECT_DIR$/root/target/" />
+    <ignored path="$PROJECT_DIR$/modules/core/target/" />
+    <ignored path="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/web/target/" />
+    <ignored path="$PROJECT_DIR$/parent/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/jeesite4$Application.coverage" NAME="Application Coverage Results" MODIFIED="1602475801674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="MyEquipmentController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/main/java/com/jeesite/modules/equipmentaccess/web/MyEquipmentController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2987">
+              <caret line="133" column="0" lean-forward="false" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MethodProxy.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.9.RELEASE/spring-core-5.2.9.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2581">
+              <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+              <folding>
+                <marker date="1601628157924" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1601628157924" expanded="false" signature="155:629" ph="..." />
+                <marker date="1601628157924" expanded="true" signature="972:1209" ph="{...}" />
+                <marker date="1601628157924" expanded="true" signature="1235:1910" ph="{...}" />
+                <marker date="1601628157924" expanded="true" signature="1987:2290" ph="{...}" />
+                <marker date="1601628157924" expanded="true" signature="2318:2325" ph="{}" />
+                <marker date="1601628157924" expanded="false" signature="2362:2373" ph=" { " />
+                <marker date="1601628157924" expanded="false" signature="2390:2396" ph=" }" />
+                <marker date="1601628157924" expanded="false" signature="2430:2441" ph=" { " />
+                <marker date="1601628157924" expanded="false" signature="2468:2474" ph=" }" />
+                <marker date="1601628157924" expanded="true" signature="2507:2573" ph="{...}" />
+                <marker date="1601628157924" expanded="true" signature="2604:2670" ph="{...}" />
+                <marker date="1601628157924" expanded="true" signature="2706:2772" ph="{...}" />
+                <marker date="1601628157924" expanded="true" signature="2836:3324" ph="{...}" />
+                <marker date="1601628157924" expanded="true" signature="3395:3908" ph="{...}" />
+                <marker date="1601628157924" expanded="true" signature="3984:4253" ph="{...}" />
+                <marker date="1601628157924" expanded="true" signature="4291:4881" ph="{...}" />
+                <marker date="1601628157924" expanded="true" signature="4476:4875" ph="{...}" />
+                <marker date="1601628157924" expanded="true" signature="4922:5050" ph="{...}" />
+                <marker date="1601628157924" expanded="true" signature="5033:5044" ph="{}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CglibAopProxy.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.9.RELEASE/spring-aop-5.2.9.RELEASE.jar!/org/springframework/aop/framework/CglibAopProxy.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11252">
+              <caret line="434" column="0" lean-forward="false" selection-start-line="434" selection-start-column="0" selection-end-line="434" selection-end-column="0" />
+              <folding>
+                <marker date="1601628152398" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1601628152398" expanded="false" signature="157:1808" ph="..." />
+                <marker date="1601628152398" expanded="true" signature="2820:3245" ph="{...}" />
+                <marker date="1601628152398" expanded="true" signature="3365:4013" ph="{...}" />
+                <marker date="1601628152398" expanded="false" signature="4043:4054" ph=" { " />
+                <marker date="1601628152398" expanded="false" signature="4094:4100" ph=" }" />
+                <marker date="1601628152398" expanded="true" signature="4164:6742" ph="{...}" />
+                <marker date="1601628152398" expanded="true" signature="6834:7106" ph="{...}" />
+                <marker date="1601628152398" expanded="false" signature="7147:7158" ph=" { " />
+                <marker date="1601628152398" expanded="false" signature="7180:7186" ph=" }" />
+                <marker date="1601628152398" expanded="true" signature="7296:7749" ph="{...}" />
+                <marker date="1601628152398" expanded="true" signature="7870:9573" ph="{...}" />
+                <marker date="1601628152398" expanded="true" signature="9648:12060" ph="{...}" />
+                <marker date="1601628152398" expanded="true" signature="12112:12260" ph="{...}" />
+                <marker date="1601628152398" expanded="false" signature="12287:12298" ph=" { " />
+                <marker date="1601628152398" expanded="false" signature="12385:12391" ph=" }" />
+                <marker date="1601628152398" expanded="true" signature="12475:12749" ph="{...}" />
+                <marker date="1601628152398" expanded="true" signature="12893:13409" ph="{...}" />
+                <marker date="1601628152398" expanded="true" signature="13482:20646" ph="{...}" />
+                <marker date="1601628152398" expanded="true" signature="13774:13947" ph="{...}" />
+                <marker date="1601628152398" expanded="true" signature="13990:17519" ph="{...}" />
+                <marker date="1601628152398" expanded="true" signature="17575:19427" ph="{...}" />
+                <marker date="1601628152398" expanded="true" signature="19502:19586" ph="{...}" />
+                <marker date="1601628152398" expanded="true" signature="19657:19854" ph="{...}" />
+                <marker date="1601628152398" expanded="true" signature="19886:20640" ph="{...}" />
+                <marker date="1601628152398" expanded="true" signature="20730:22087" ph="{...}" />
+                <marker date="1601628152398" expanded="true" signature="21017:21384" ph="{...}" />
+                <marker date="1601628152398" expanded="true" signature="21453:21882" ph="{...}" />
+                <marker date="1601628152398" expanded="true" signature="21944:22081" ph="{...}" />
+                <marker date="1601628152398" expanded="true" signature="22183:24395" ph="{...}" />
+                <marker date="1601628152398" expanded="false" signature="22296:22311" ph=" { " />
+                <marker date="1601628152398" expanded="false" signature="22334:22344" ph=" }" />
+                <marker date="1601628152398" expanded="true" signature="22482:24060" ph="{...}" />
+                <marker date="1601628152398" expanded="true" signature="24116:24302" ph="{...}" />
+                <marker date="1601628152398" expanded="false" signature="24333:24348" ph=" { " />
+                <marker date="1601628152398" expanded="false" signature="24379:24389" ph=" }" />
+                <marker date="1601628152398" expanded="true" signature="24499:25420" ph="{...}" />
+                <marker date="1601628152398" expanded="true" signature="24799:24932" ph="{...}" />
+                <marker date="1601628152398" expanded="true" signature="25070:25414" ph="{...}" />
+                <marker date="1601628152398" expanded="true" signature="25510:25885" ph="{...}" />
+                <marker date="1601628152398" expanded="false" signature="25617:25632" ph=" { " />
+                <marker date="1601628152398" expanded="false" signature="25655:25665" ph=" }" />
+                <marker date="1601628152398" expanded="true" signature="25768:25879" ph="{...}" />
+                <marker date="1601628152398" expanded="true" signature="25973:26872" ph="{...}" />
+                <marker date="1601628152398" expanded="false" signature="26078:26093" ph=" { " />
+                <marker date="1601628152398" expanded="false" signature="26116:26126" ph=" }" />
+                <marker date="1601628152398" expanded="true" signature="26229:26866" ph="{...}" />
+                <marker date="1601628152398" expanded="true" signature="26953:27193" ph="{...}" />
+                <marker date="1601628152398" expanded="false" signature="27058:27073" ph=" { " />
+                <marker date="1601628152398" expanded="false" signature="27096:27106" ph=" }" />
+                <marker date="1601628152398" expanded="false" signature="27142:27157" ph=" { " />
+                <marker date="1601628152398" expanded="false" signature="27177:27187" ph=" }" />
+                <marker date="1601628152398" expanded="true" signature="27273:27537" ph="{...}" />
+                <marker date="1601628152398" expanded="false" signature="27387:27402" ph=" { " />
+                <marker date="1601628152398" expanded="false" signature="27423:27433" ph=" }" />
+                <marker date="1601628152398" expanded="false" signature="27487:27502" ph=" { " />
+                <marker date="1601628152398" expanded="false" signature="27521:27531" ph=" }" />
+                <marker date="1601628152398" expanded="true" signature="27642:28573" ph="{...}" />
+                <marker date="1601628152398" expanded="false" signature="27770:27785" ph=" { " />
+                <marker date="1601628152398" expanded="false" signature="27818:27828" ph=" }" />
+                <marker date="1601628152398" expanded="true" signature="27966:28567" ph="{...}" />
+                <marker date="1601628152398" expanded="true" signature="28671:29443" ph="{...}" />
+                <marker date="1601628152398" expanded="false" signature="28792:28807" ph=" { " />
+                <marker date="1601628152398" expanded="false" signature="28840:28850" ph=" }" />
+                <marker date="1601628152398" expanded="true" signature="28988:29437" ph="{...}" />
+                <marker date="1601628152398" expanded="true" signature="29547:30302" ph="{...}" />
+                <marker date="1601628152398" expanded="false" signature="29678:29693" ph=" { " />
+                <marker date="1601628152398" expanded="false" signature="29714:29724" ph=" }" />
+                <marker date="1601628152398" expanded="true" signature="29862:30296" ph="{...}" />
+                <marker date="1601628152398" expanded="true" signature="30399:30879" ph="{...}" />
+                <marker date="1601628152398" expanded="false" signature="30523:30538" ph=" { " />
+                <marker date="1601628152398" expanded="false" signature="30559:30569" ph=" }" />
+                <marker date="1601628152398" expanded="true" signature="30707:30873" ph="{...}" />
+                <marker date="1601628152398" expanded="true" signature="30952:31005" ph="{...}" />
+                <marker date="1601628152398" expanded="true" signature="30988:30999" ph="{}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myEquipmentList.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/main/resources/views/modules/equipmentaccess/myEquipmentList.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="16" column="60" lean-forward="false" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="60" />
+              <folding>
+                <marker date="1602560972702" expanded="true" signature="5442:5448" ph="&amp;nbsp;" />
+                <marker date="1602560972702" expanded="true" signature="5673:5679" ph="&amp;nbsp;" />
+                <marker date="1602560972702" expanded="true" signature="5910:5916" ph="&amp;nbsp;" />
+                <marker date="1602560972702" expanded="true" signature="6108:6114" ph="&amp;nbsp;" />
+                <marker date="1602560972702" expanded="true" signature="6330:6336" ph="&amp;nbsp;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myEquipmentList2.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/src/main/resources/views/modules/equipmentaccess/myEquipmentList2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="974">
+              <caret line="121" column="9" lean-forward="false" selection-start-line="121" selection-start-column="9" selection-end-line="121" selection-end-column="9" />
+              <folding>
+                <marker date="1602647023513" expanded="true" signature="5288:5294" ph="&amp;nbsp;" />
+                <marker date="1602647023513" expanded="true" signature="5294:5300" ph="&amp;nbsp;" />
+                <marker date="1602647023513" expanded="true" signature="5300:5306" ph="&amp;nbsp;" />
+                <marker date="1602647023513" expanded="true" signature="5306:5312" ph="&amp;nbsp;" />
+                <marker date="1602647023513" expanded="true" signature="5312:5318" ph="&amp;nbsp;" />
+                <marker date="1602647023513" expanded="true" signature="5318:5324" ph="&amp;nbsp;" />
+                <marker date="1602647023513" expanded="true" signature="5324:5330" ph="&amp;nbsp;" />
+                <marker date="1602647023513" expanded="true" signature="5330:5336" ph="&amp;nbsp;" />
+                <marker date="1602647023513" expanded="true" signature="5336:5342" ph="&amp;nbsp;" />
+                <marker date="1602647023513" expanded="true" signature="5342:5348" ph="&amp;nbsp;" />
+                <marker date="1602647023513" expanded="true" signature="5348:5354" ph="&amp;nbsp;" />
+                <marker date="1602647023513" expanded="true" signature="5354:5360" ph="&amp;nbsp;" />
+                <marker date="1602647023513" expanded="true" signature="5360:5366" ph="&amp;nbsp;" />
+                <marker date="1602647023513" expanded="true" signature="5374:5380" ph="&amp;nbsp;" />
+                <marker date="1602647023513" expanded="true" signature="5589:5595" ph="&amp;nbsp;" />
+                <marker date="1602647023513" expanded="true" signature="5834:5840" ph="&amp;nbsp;" />
+                <marker date="1602647023513" expanded="true" signature="6071:6077" ph="&amp;nbsp;" />
+                <marker date="1602647023513" expanded="true" signature="6310:6316" ph="&amp;nbsp;" />
+                <marker date="1602647023513" expanded="true" signature="6523:6529" ph="&amp;nbsp;" />
+                <marker date="1602647023513" expanded="true" signature="6759:6765" ph="&amp;nbsp;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/test/java/com/jeesite/test/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myEquipmentForm.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/main/resources/views/modules/equipmentaccess/myEquipmentForm.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3364">
+              <caret line="116" column="0" lean-forward="false" selection-start-line="116" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myEquipmentData.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/main/resources/views/modules/equipmentaccess/myEquipmentData.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2001">
+              <caret line="69" column="44" lean-forward="false" selection-start-line="69" selection-start-column="44" selection-end-line="69" selection-end-column="44" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#ul#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#ul#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#3;n#ul#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyEquipmentDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/main/java/com/jeesite/modules/equipmentaccess/dao/MyEquipmentDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyEquipmentService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/main/java/com/jeesite/modules/equipmentaccess/service/MyEquipmentService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1102">
+              <caret line="53" column="18" lean-forward="false" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+              <folding>
+                <element signature="e#1108#1109#0" expanded="true" />
+                <element signature="e#1149#1150#0" expanded="true" />
+                <element signature="e#2758#2759#0" expanded="true" />
+                <element signature="e#2818#2819#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>立即</find>
+      <find>信息</find>
+      <find>dataGrid</find>
+      <find>isNewRecord</find>
+      <find>searchForm</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\code\jeesite4\modules\core\src\main\resources\views\themes</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/fabric" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/web/src/main/resources/config/application.yml" />
+        <option value="$PROJECT_DIR$/modules/core/src/main/resources/views/themes/default/modules/sys/sysLogin.html" />
+        <option value="$PROJECT_DIR$/modules/core/src/main/resources/views/themes/default/modules/sys/sysIndex/topMenuCorp.html" />
+        <option value="$PROJECT_DIR$/web/pom.xml" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/jeesite/modules/equipmentaccess/entity/MyEquipment.java" />
+        <option value="$PROJECT_DIR$/common/src/main/java/com/jeesite/common/lang/DateUtils.java" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/jeesite/modules/equipmentaccess/client/ClientRunner.java" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/jeesite/modules/equipmentaccess/client/ClientHandler.java" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/views/modules/equipmentaccess/myEquipmentForm.html" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/jeesite/modules/equipmentaccess/config/ScheduleTask.java" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/views/modules/equipmentaccess/myEquipmentList.html" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/jeesite/modules/equipmentaccess/dao/MyEquipmentDao.java" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/jeesite/modules/equipmentaccess/service/MyEquipmentService.java" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/mappings/modules/equipmentaccess/MyEquipmentDao.xml" />
+        <option value="$PROJECT_DIR$/web/src/test/java/com/jeesite/test/Test.java" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/views/modules/equipmentaccess/myEquipmentData.html" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/jeesite/modules/equipmentaccess/web/MyEquipmentController.java" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/views/modules/equipmentaccess/myEquipmentList2.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JeeSite" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JeeSite" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JeeSite Common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JeeSite Common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JeeSite Common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="400" />
+    <option name="y" value="380" />
+    <option name="width" value="1680" />
+    <option name="height" value="948" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jeesite4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jeesite4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jeesite4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jeesite4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jeesite4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jeesite4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jeesite4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jeesite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jeesite4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jeesite" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jeesite4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jeesite" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="equipmentaccess" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jeesite4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jeesite" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="equipmentaccess" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jeesite4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jeesite4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jeesite4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jeesite4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="equipmentaccess" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jeesite4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jeesite4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jeesite4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jeesite4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jeesite4" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jeesite" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/course/testProject/ssmbuild/docker-ssm" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jeesite.modules.equipmentaccess.client" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\jeesite4\web\src\main\resources\views\modules\equipmentaccess" />
+      <recent name="D:\code\jeesite4" />
+      <recent name="D:\code\jeesite4\web\src\main\resources\config" />
+      <recent name="D:\code\jeesite4\web\src\main\java\com\jeesite\modules\equipmentaccess" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 149 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.jeesite.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.jeesite.test.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="jeesite-web" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration name="InitData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.jeesite.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="jeesite-web" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.jeesite.test" />
+      <option name="MAIN_CLASS_NAME" value="com.jeesite.test.InitData" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="InitData.initData01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.jeesite.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="jeesite-web" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.jeesite.test" />
+      <option name="MAIN_CLASS_NAME" value="com.jeesite.test.InitData" />
+      <option name="METHOD_NAME" value="initData01" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jeesite.modules.Application" />
+      <module name="jeesite-web" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.Application" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.InitData" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.InitData.initData01" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.InitData.initData01" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.InitData" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52798e37-0359-4e10-9edf-207aaad82cc8" name="Default" comment="" />
+      <created>1602323983477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602323983477</updated>
+      <workItem from="1602323986699" duration="12872000" />
+      <workItem from="1602382064797" duration="6557000" />
+      <workItem from="1602467909223" duration="26191000" />
+      <workItem from="1602558460033" duration="22529000" />
+      <workItem from="1602643490264" duration="4819000" />
+      <workItem from="1602684492992" duration="601000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="InitData - 2020.10.10 at 18h 10m 02s.xml">
+      <configuration name="InitData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InitData_initData01 - 2020.10.10 at 19h 09m 35s.xml">
+      <configuration name="InitData.initData01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InitData_initData01 - 2020.10.10 at 19h 10m 04s.xml">
+      <configuration name="InitData.initData01" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="73569000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="2582" height="1402" extended-state="7" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="RestServices" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985553" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985553" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.351176" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21735604" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25060827" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17255217" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985553" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42254663" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985553" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32927817" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="44" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.9.RELEASE/spring-aop-5.2.9.RELEASE.jar!/org/springframework/aop/target/SingletonTargetSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.6.0/shiro-core-1.6.0.jar!/org/apache/shiro/authz/aop/AuthorizingMethodInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-spring/1.6.0/shiro-spring-1.6.0.jar!/org/apache/shiro/spring/security/interceptor/AopAllianceAnnotationsAuthorizingMethodInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.2.9.RELEASE/spring-tx-5.2.9.RELEASE.jar!/org/springframework/transaction/interceptor/TransactionAspectSupport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5075">
+          <caret line="226" column="0" lean-forward="false" selection-start-line="226" selection-start-column="0" selection-end-line="226" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.2.9.RELEASE/spring-tx-5.2.9.RELEASE.jar!/org/springframework/transaction/interceptor/TransactionInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="957">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.9.RELEASE/spring-aop-5.2.9.RELEASE.jar!/org/springframework/aop/framework/ReflectiveMethodInvocation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1508">
+          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/test/java/com/jeesite/test/InitData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/jeesite/modules/equipmentaccess/cert/KeyStoreLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/jeesite/modules/equipmentaccess/config/Properties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.6.0/swagger-annotations-1.6.0.jar!/io/swagger/annotations/Scope.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/test/java/com/jeesite/test/InsertBatchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/Java/jdk/src.zip!/java/util/concurrent/CompletableFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="2182" column="67" lean-forward="false" selection-start-line="2179" selection-start-column="19" selection-end-line="2182" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/eclipse/milo/sdk-client/0.3.6/sdk-client-0.3.6.jar!/org/eclipse/milo/opcua/sdk/client/api/UaClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/eclipse/milo/sdk-client/0.3.6/sdk-client-0.3.6.jar!/org/eclipse/milo/opcua/sdk/client/OpcUaClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3857">
+          <caret line="134" column="32" lean-forward="false" selection-start-line="134" selection-start-column="32" selection-end-line="134" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/eclipse/milo/stack-client/0.3.6/stack-client-0.3.6.jar!/org/eclipse/milo/opcua/stack/client/DiscoveryClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="57" column="51" lean-forward="false" selection-start-line="57" selection-start-column="51" selection-end-line="57" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/jeesite/jeesite-framework/4.2.1-SNAPSHOT/jeesite-framework-4.2.1-20200910.044821-7.jar!/com/jeesite/common/web/BaseController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2104">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/jeesite/modules/equipmentaccess/client/ClientRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1939">
+          <caret line="37" column="49" lean-forward="false" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/jeesite/modules/equipmentaccess/client/ClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/views/modules/demo/demoFormTableForm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webTest/db/h2/test.sql" />
+    <entry file="file://$PROJECT_DIR$/webTest/src/main/resources/views/modules/equipmentaccess/myEquipmentForm.html" />
+    <entry file="file://$PROJECT_DIR$/webTest/src/main/java/com/jeesite/modules/equipmentaccess/web/MyEquipmentController.java" />
+    <entry file="file://$PROJECT_DIR$/webTest/src/main/java/com/jeesite/modules/equipmentaccess/service/MyEquipmentService.java" />
+    <entry file="file://$PROJECT_DIR$/webTest/src/main/resources/views/modules/equipmentaccess/myEquipmentList.html" />
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/static/common/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.9.RELEASE/spring-context-5.2.9.RELEASE.jar!/org/springframework/scheduling/annotation/EnableScheduling.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.9.RELEASE/spring-context-5.2.9.RELEASE.jar!/org/springframework/scheduling/support/ScheduledMethodRunnable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/Java/jdk/src.zip!/java/util/concurrent/ScheduledExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="153" column="30" lean-forward="false" selection-start-line="153" selection-start-column="30" selection-end-line="153" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/jeesite/modules/equipmentaccess/config/ScheduleTask.java" />
+    <entry file="file://$PROJECT_DIR$/modules/core/src/main/java/com/jeesite/modules/sys/web/user/CorpAdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="54" column="45" lean-forward="false" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/jeesite/jeesite-framework/4.2.1-SNAPSHOT/jeesite-framework-4.2.1-20200910.044821-7.jar!/com/jeesite/common/entity/BaseEntity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/jeesite/jeesite-framework/4.2.1-SNAPSHOT/jeesite-framework-4.2.1-20200910.044821-7.jar!/com/jeesite/common/entity/DataEntity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="60" column="70" lean-forward="true" selection-start-line="60" selection-start-column="70" selection-end-line="60" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/config/beetl.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/config/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3480">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/jeesite/modules/equipmentaccess/entity/MyEquipment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="35" column="21" lean-forward="false" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.9.RELEASE/spring-context-5.2.9.RELEASE.jar!/org/springframework/scheduling/support/DelegatingErrorHandlingRunnable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/mappings/modules/equipmentaccess/MyEquipmentDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1073">
+          <caret line="37" column="44" lean-forward="false" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/eclipse/milo/stack-core/0.3.6/stack-core-0.3.6.jar!/org/eclipse/milo/opcua/stack/core/types/builtin/LocalizedText.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="31" column="18" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/eclipse/milo/sdk-client/0.3.6/sdk-client-0.3.6.jar!/org/eclipse/milo/opcua/sdk/client/api/services/AttributeServices.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="52" column="41" lean-forward="false" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/test/java/com/jeesite/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/jeesite/jeesite-framework/4.2.1-SNAPSHOT/jeesite-framework-4.2.1-20200910.044821-7.jar!/com/jeesite/common/service/QueryService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="129" column="19" lean-forward="false" selection-start-line="129" selection-start-column="19" selection-end-line="129" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/jeesite/modules/equipmentaccess/service/MyEquipmentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1102">
+          <caret line="53" column="18" lean-forward="false" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+          <folding>
+            <element signature="e#1108#1109#0" expanded="true" />
+            <element signature="e#1149#1150#0" expanded="true" />
+            <element signature="e#2758#2759#0" expanded="true" />
+            <element signature="e#2818#2819#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/views/modules/equipmentaccess/myEquipmentForm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3364">
+          <caret line="116" column="0" lean-forward="false" selection-start-line="116" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/views/modules/equipmentaccess/myEquipmentData.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2001">
+          <caret line="69" column="44" lean-forward="false" selection-start-line="69" selection-start-column="44" selection-end-line="69" selection-end-column="44" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#ul#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#ul#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#ul#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/jeesite/modules/equipmentaccess/dao/MyEquipmentDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/jeesite/jeesite-framework/4.2.1-SNAPSHOT/jeesite-framework-4.2.1-20200910.044821-7.jar!/com/jeesite/common/entity/Page.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="40" column="31" lean-forward="false" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.9.RELEASE/spring-aop-5.2.9.RELEASE.jar!/org/springframework/aop/framework/CglibAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11252">
+          <caret line="434" column="0" lean-forward="false" selection-start-line="434" selection-start-column="0" selection-end-line="434" selection-end-column="0" />
+          <folding>
+            <marker date="1601628152398" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1601628152398" expanded="false" signature="157:1808" ph="..." />
+            <marker date="1601628152398" expanded="true" signature="2820:3245" ph="{...}" />
+            <marker date="1601628152398" expanded="true" signature="3365:4013" ph="{...}" />
+            <marker date="1601628152398" expanded="false" signature="4043:4054" ph=" { " />
+            <marker date="1601628152398" expanded="false" signature="4094:4100" ph=" }" />
+            <marker date="1601628152398" expanded="true" signature="4164:6742" ph="{...}" />
+            <marker date="1601628152398" expanded="true" signature="6834:7106" ph="{...}" />
+            <marker date="1601628152398" expanded="false" signature="7147:7158" ph=" { " />
+            <marker date="1601628152398" expanded="false" signature="7180:7186" ph=" }" />
+            <marker date="1601628152398" expanded="true" signature="7296:7749" ph="{...}" />
+            <marker date="1601628152398" expanded="true" signature="7870:9573" ph="{...}" />
+            <marker date="1601628152398" expanded="true" signature="9648:12060" ph="{...}" />
+            <marker date="1601628152398" expanded="true" signature="12112:12260" ph="{...}" />
+            <marker date="1601628152398" expanded="false" signature="12287:12298" ph=" { " />
+            <marker date="1601628152398" expanded="false" signature="12385:12391" ph=" }" />
+            <marker date="1601628152398" expanded="true" signature="12475:12749" ph="{...}" />
+            <marker date="1601628152398" expanded="true" signature="12893:13409" ph="{...}" />
+            <marker date="1601628152398" expanded="true" signature="13482:20646" ph="{...}" />
+            <marker date="1601628152398" expanded="true" signature="13774:13947" ph="{...}" />
+            <marker date="1601628152398" expanded="true" signature="13990:17519" ph="{...}" />
+            <marker date="1601628152398" expanded="true" signature="17575:19427" ph="{...}" />
+            <marker date="1601628152398" expanded="true" signature="19502:19586" ph="{...}" />
+            <marker date="1601628152398" expanded="true" signature="19657:19854" ph="{...}" />
+            <marker date="1601628152398" expanded="true" signature="19886:20640" ph="{...}" />
+            <marker date="1601628152398" expanded="true" signature="20730:22087" ph="{...}" />
+            <marker date="1601628152398" expanded="true" signature="21017:21384" ph="{...}" />
+            <marker date="1601628152398" expanded="true" signature="21453:21882" ph="{...}" />
+            <marker date="1601628152398" expanded="true" signature="21944:22081" ph="{...}" />
+            <marker date="1601628152398" expanded="true" signature="22183:24395" ph="{...}" />
+            <marker date="1601628152398" expanded="false" signature="22296:22311" ph=" { " />
+            <marker date="1601628152398" expanded="false" signature="22334:22344" ph=" }" />
+            <marker date="1601628152398" expanded="true" signature="22482:24060" ph="{...}" />
+            <marker date="1601628152398" expanded="true" signature="24116:24302" ph="{...}" />
+            <marker date="1601628152398" expanded="false" signature="24333:24348" ph=" { " />
+            <marker date="1601628152398" expanded="false" signature="24379:24389" ph=" }" />
+            <marker date="1601628152398" expanded="true" signature="24499:25420" ph="{...}" />
+            <marker date="1601628152398" expanded="true" signature="24799:24932" ph="{...}" />
+            <marker date="1601628152398" expanded="true" signature="25070:25414" ph="{...}" />
+            <marker date="1601628152398" expanded="true" signature="25510:25885" ph="{...}" />
+            <marker date="1601628152398" expanded="false" signature="25617:25632" ph=" { " />
+            <marker date="1601628152398" expanded="false" signature="25655:25665" ph=" }" />
+            <marker date="1601628152398" expanded="true" signature="25768:25879" ph="{...}" />
+            <marker date="1601628152398" expanded="true" signature="25973:26872" ph="{...}" />
+            <marker date="1601628152398" expanded="false" signature="26078:26093" ph=" { " />
+            <marker date="1601628152398" expanded="false" signature="26116:26126" ph=" }" />
+            <marker date="1601628152398" expanded="true" signature="26229:26866" ph="{...}" />
+            <marker date="1601628152398" expanded="true" signature="26953:27193" ph="{...}" />
+            <marker date="1601628152398" expanded="false" signature="27058:27073" ph=" { " />
+            <marker date="1601628152398" expanded="false" signature="27096:27106" ph=" }" />
+            <marker date="1601628152398" expanded="false" signature="27142:27157" ph=" { " />
+            <marker date="1601628152398" expanded="false" signature="27177:27187" ph=" }" />
+            <marker date="1601628152398" expanded="true" signature="27273:27537" ph="{...}" />
+            <marker date="1601628152398" expanded="false" signature="27387:27402" ph=" { " />
+            <marker date="1601628152398" expanded="false" signature="27423:27433" ph=" }" />
+            <marker date="1601628152398" expanded="false" signature="27487:27502" ph=" { " />
+            <marker date="1601628152398" expanded="false" signature="27521:27531" ph=" }" />
+            <marker date="1601628152398" expanded="true" signature="27642:28573" ph="{...}" />
+            <marker date="1601628152398" expanded="false" signature="27770:27785" ph=" { " />
+            <marker date="1601628152398" expanded="false" signature="27818:27828" ph=" }" />
+            <marker date="1601628152398" expanded="true" signature="27966:28567" ph="{...}" />
+            <marker date="1601628152398" expanded="true" signature="28671:29443" ph="{...}" />
+            <marker date="1601628152398" expanded="false" signature="28792:28807" ph=" { " />
+            <marker date="1601628152398" expanded="false" signature="28840:28850" ph=" }" />
+            <marker date="1601628152398" expanded="true" signature="28988:29437" ph="{...}" />
+            <marker date="1601628152398" expanded="true" signature="29547:30302" ph="{...}" />
+            <marker date="1601628152398" expanded="false" signature="29678:29693" ph=" { " />
+            <marker date="1601628152398" expanded="false" signature="29714:29724" ph=" }" />
+            <marker date="1601628152398" expanded="true" signature="29862:30296" ph="{...}" />
+            <marker date="1601628152398" expanded="true" signature="30399:30879" ph="{...}" />
+            <marker date="1601628152398" expanded="false" signature="30523:30538" ph=" { " />
+            <marker date="1601628152398" expanded="false" signature="30559:30569" ph=" }" />
+            <marker date="1601628152398" expanded="true" signature="30707:30873" ph="{...}" />
+            <marker date="1601628152398" expanded="true" signature="30952:31005" ph="{...}" />
+            <marker date="1601628152398" expanded="true" signature="30988:30999" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.9.RELEASE/spring-core-5.2.9.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2581">
+          <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+          <folding>
+            <marker date="1601628157924" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1601628157924" expanded="false" signature="155:629" ph="..." />
+            <marker date="1601628157924" expanded="true" signature="972:1209" ph="{...}" />
+            <marker date="1601628157924" expanded="true" signature="1235:1910" ph="{...}" />
+            <marker date="1601628157924" expanded="true" signature="1987:2290" ph="{...}" />
+            <marker date="1601628157924" expanded="true" signature="2318:2325" ph="{}" />
+            <marker date="1601628157924" expanded="false" signature="2362:2373" ph=" { " />
+            <marker date="1601628157924" expanded="false" signature="2390:2396" ph=" }" />
+            <marker date="1601628157924" expanded="false" signature="2430:2441" ph=" { " />
+            <marker date="1601628157924" expanded="false" signature="2468:2474" ph=" }" />
+            <marker date="1601628157924" expanded="true" signature="2507:2573" ph="{...}" />
+            <marker date="1601628157924" expanded="true" signature="2604:2670" ph="{...}" />
+            <marker date="1601628157924" expanded="true" signature="2706:2772" ph="{...}" />
+            <marker date="1601628157924" expanded="true" signature="2836:3324" ph="{...}" />
+            <marker date="1601628157924" expanded="true" signature="3395:3908" ph="{...}" />
+            <marker date="1601628157924" expanded="true" signature="3984:4253" ph="{...}" />
+            <marker date="1601628157924" expanded="true" signature="4291:4881" ph="{...}" />
+            <marker date="1601628157924" expanded="true" signature="4476:4875" ph="{...}" />
+            <marker date="1601628157924" expanded="true" signature="4922:5050" ph="{...}" />
+            <marker date="1601628157924" expanded="true" signature="5033:5044" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/jeesite/modules/equipmentaccess/web/MyEquipmentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2987">
+          <caret line="133" column="0" lean-forward="false" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/views/modules/equipmentaccess/myEquipmentList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="16" column="60" lean-forward="false" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="60" />
+          <folding>
+            <marker date="1602560972702" expanded="true" signature="5442:5448" ph="&amp;nbsp;" />
+            <marker date="1602560972702" expanded="true" signature="5673:5679" ph="&amp;nbsp;" />
+            <marker date="1602560972702" expanded="true" signature="5910:5916" ph="&amp;nbsp;" />
+            <marker date="1602560972702" expanded="true" signature="6108:6114" ph="&amp;nbsp;" />
+            <marker date="1602560972702" expanded="true" signature="6330:6336" ph="&amp;nbsp;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/views/modules/equipmentaccess/myEquipmentList2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="974">
+          <caret line="121" column="9" lean-forward="false" selection-start-line="121" selection-start-column="9" selection-end-line="121" selection-end-column="9" />
+          <folding>
+            <marker date="1602647023513" expanded="true" signature="5288:5294" ph="&amp;nbsp;" />
+            <marker date="1602647023513" expanded="true" signature="5294:5300" ph="&amp;nbsp;" />
+            <marker date="1602647023513" expanded="true" signature="5300:5306" ph="&amp;nbsp;" />
+            <marker date="1602647023513" expanded="true" signature="5306:5312" ph="&amp;nbsp;" />
+            <marker date="1602647023513" expanded="true" signature="5312:5318" ph="&amp;nbsp;" />
+            <marker date="1602647023513" expanded="true" signature="5318:5324" ph="&amp;nbsp;" />
+            <marker date="1602647023513" expanded="true" signature="5324:5330" ph="&amp;nbsp;" />
+            <marker date="1602647023513" expanded="true" signature="5330:5336" ph="&amp;nbsp;" />
+            <marker date="1602647023513" expanded="true" signature="5336:5342" ph="&amp;nbsp;" />
+            <marker date="1602647023513" expanded="true" signature="5342:5348" ph="&amp;nbsp;" />
+            <marker date="1602647023513" expanded="true" signature="5348:5354" ph="&amp;nbsp;" />
+            <marker date="1602647023513" expanded="true" signature="5354:5360" ph="&amp;nbsp;" />
+            <marker date="1602647023513" expanded="true" signature="5360:5366" ph="&amp;nbsp;" />
+            <marker date="1602647023513" expanded="true" signature="5374:5380" ph="&amp;nbsp;" />
+            <marker date="1602647023513" expanded="true" signature="5589:5595" ph="&amp;nbsp;" />
+            <marker date="1602647023513" expanded="true" signature="5834:5840" ph="&amp;nbsp;" />
+            <marker date="1602647023513" expanded="true" signature="6071:6077" ph="&amp;nbsp;" />
+            <marker date="1602647023513" expanded="true" signature="6310:6316" ph="&amp;nbsp;" />
+            <marker date="1602647023513" expanded="true" signature="6523:6529" ph="&amp;nbsp;" />
+            <marker date="1602647023513" expanded="true" signature="6759:6765" ph="&amp;nbsp;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>jeesite-web:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>jeesite4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

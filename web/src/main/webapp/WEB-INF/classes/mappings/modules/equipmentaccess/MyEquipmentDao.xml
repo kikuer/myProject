@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.jeesite.modules.equipmentaccess.dao.MyEquipmentDao">
+	
+	<!-- 查询数据
+	<select id="findList" resultType="MyEquipment">
+		SELECT ${sqlMap.column.toSql()}
+		FROM ${sqlMap.table.toSql()}
+		<where>
+			${sqlMap.where.toSql()}
+		</where>
+		ORDER BY ${sqlMap.order.toSql()}
+	</select> -->
+
+<!--更新设备在线状态-->
+	<update id="modifyAccessStatus">
+		UPDATE my_equipment
+		SET equipment_status = #{status}
+		WHERE equipment_id = #{equipmentId};
+	</update>
+
+    <!--更新设备最近上线时间-->
+    <update id="updatOnlineTime">
+        UPDATE my_equipment
+        SET equipment_access_time = #{currentTime}
+        WHERE equipment_id = #{equipmentId};
+    </update>
+
+
+	<select id="findAll" resultType="MyEquipment">
+		SELECT * FROM my_equipment
+	</select>
+
+
+
+	<select id="getAccessStatus" resultType="String">
+		SELECT equipment_status FROM my_equipment
+		WHERE equipment_id = #{equipmentId};
+	</select>
+</mapper>

@@ -1,0 +1,120 @@
+<% layout('/layouts/default.html', {title: 'opcua设备接入', libs: ['dataGrid']}){ %>
+<div class="main-content">
+	<div class="box box-main">
+		<div class="box-header">
+			<div class="box-title">
+				<i class="fa icon-notebook"></i> ${text('opcua设备接入')}
+			</div>
+			<div class="box-tools pull-right">
+				<a href="#" class="btn btn-default" id="btnSearch" title="${text('查询')}"><i class="fa fa-filter"></i> ${text('查询')}</a>
+				<% if(hasPermi('equipmentaccess:myEquipment:edit')){ %>
+					<a href="${ctx}/equipmentaccess/myEquipment/form" class="btn btn-default btnTool" title="${text('新增opcua设备')}"><i class="fa fa-plus"></i> ${text('新增')}</a>
+				<% } %>
+				<a href="#" class="btn btn-default" id="btnSetting" title="${text('设置')}"><i class="fa fa-navicon"></i></a>
+			</div>
+		</div>
+		<div class="box-body">
+			<#form:form id="searchForm" model="${myEquipment}" action="${ctx}/equipmentaccess/myEquipment/listData" method="post" class="form-inline hide"
+					data-page-no="${parameter.pageNo}" data-page-size="${parameter.pageSize}" data-order-by="${parameter.orderBy}">
+				<div class="form-group">
+					<label class="control-label">${text('设备名称')}：</label>
+					<div class="control-inline">
+						<#form:input path="equipmentName" maxlength="100" class="form-control width-120"/>
+					</div>
+				</div>
+				<div class="form-group">
+					<label class="control-label">${text('归属机构')}：</label>
+					<div class="control-inline width-120" >
+						<#form:treeselect id="equipmentAffliation" title="${text('机构选择')}"
+							path="equipmentAffliation" labelPath="" 
+							url="${ctx}/sys/office/treeData" allowClear="true"/>
+					</div>
+				</div>
+				<div class="form-group">
+					<label class="control-label">${text('设备类型')}：</label>
+					<div class="control-inline width-120">
+						<#form:select path="equipmentType" dictType="equipment_type" blankOption="true" class="form-control"/>
+					</div>
+				</div>
+				<div class="form-group">
+					<label class="control-label">${text('设备规格')}：</label>
+					<div class="control-inline width-120">
+						<#form:select path="equipmentStandard" dictType="equipment_standard" blankOption="true" class="form-control"/>
+					</div>
+				</div>
+				<div class="form-group">
+					<label class="control-label">${text('设备描述')}：</label>
+					<div class="control-inline">
+						<#form:input path="equipmentDescription" class="form-control width-120"/>
+					</div>
+				</div>
+				<div class="form-group">
+					<label class="control-label" >${text('设备ip')}：</label>
+					<div class="control-inline">
+						<#form:input path="equipmentIp" maxlength="255" class="form-control width-120"/>
+					</div>
+				</div>
+				<div class="form-group">
+					<label class="control-label">${text('通信端口')}：</label>
+					<div class="control-inline">
+						<#form:input path="equipmentPort" maxlength="255" class="form-control width-120"/>
+					</div>
+				</div>
+				<div class="form-group">
+					<label class="control-label">${text('在线状态')}：</label>
+				</div>
+				<div class="form-group">
+					<label class="control-label">${text('最近上线时间')}：</label>
+				</div>
+				<div class="form-group">
+					<button type="submit" class="btn btn-primary btn-sm">${text('查询')}</button>
+					<button type="reset" class="btn btn-default btn-sm">${text('重置')}</button>
+				</div>
+			</#form:form>
+			<table id="dataGrid"></table>
+			<div id="dataGridPage"></div>
+		</div>
+	</div>
+</div>
+<% } %>
+<script>
+// 初始化DataGrid对象
+$('#dataGrid').dataGrid({
+	searchForm: $("#searchForm"),
+	columnModel: [
+
+        {header:'${text("设备名称")}', name:'equipmentName', index:'a.equipment_name', width:150, align:"center", frozen:true, formatter: function(val, obj, row, act){
+                return '<a href="${ctx}/equipmentaccess/myEquipment/update?equipmentId='+row.equipmentId+'" class="btnList" data-title="${text("编辑opcua设备接入")}">'+(val||row.id)+'</a>';
+            }},
+
+		{header:'${text("归属机构")}', name:'equipmentAffliation', index:'a.equipment_affliation', width:150, align:"center"},
+		{header:'${text("设备类型")}', name:'equipmentType', index:'a.equipment_type', width:150, align:"center", formatter: function(val, obj, row, act){
+			return js.getDictLabel(${@DictUtils.getDictListJson('equipment_type')}, val, '${text("未知")}', true);
+		}},
+		{header:'${text("设备规格")}', name:'equipmentStandard', index:'a.equipment_standard', width:150, align:"center", formatter: function(val, obj, row, act){
+			return js.getDictLabel(${@DictUtils.getDictListJson('equipment_standard')}, val, '${text("未知")}', true);
+		}},
+		{header:'${text("设备描述")}', name:'equipmentDescription', index:'a.equipment_description', width:150, align:"center"},
+		{header:'${text("设备ip")}', name:'equipmentIp', index:'a.equipment_ip', width:150, align:"center"},
+		{header:'${text("通信端口")}', name:'equipmentPort', index:'a.equipment_port', width:150, align:"center"},
+		{header:'${text("在线状态")}', name:'equipmentStatus', index:'a.equipment_status', width:150, align:"center"},
+		{header:'${text("最近上线时间")}', name:'equipmentAccessTime', index:'a.equipment_access_time', width:150, align:"center"},
+		{header:'${text("操作")}', name:'actions', width:120, sortable:false, title:false, formatter: function(val, obj, row, act){
+			var actions = [];
+			<% if(hasPermi('equipmentaccess:myEquipment:edit')){ %>
+				//编辑，不需要判断是否重复
+				actions.push('<a href="${ctx}/equipmentaccess/myEquipment/update?equipmentId='+row.equipmentId+'" class="btnList" title="${text("编辑设备")}"><i class="fa fa-pencil"></i></a>&nbsp;');
+                actions.push('<a href="${ctx}/equipmentaccess/myEquipment/connect?equipmentId='+row.equipmentId+'" class="btnList" title="${text("连接设备")}" data-confirm="${text("确认要连接该设备吗？")}"><i class="fa fa-rss"></i></a>&nbsp;');
+				actions.push('<a href="${ctx}/equipmentaccess/myEquipment/disconnect?equipmentId='+row.equipmentId+'" class="btnList" title="${text("断开连接")}" data-confirm="${text("确认要断开该设备吗？")}"><i class="fa fa-exclamation-circle"></i></a>&nbsp;');
+                actions.push('<a href="${ctx}/equipmentaccess/myEquipment/readValue?equipmentId='+row.equipmentId+'" class="btnList" title="${text("查看设备数据")}"><i class="fa fa-eye"></i></a>&nbsp;');
+				actions.push('<a href="${ctx}/equipmentaccess/myEquipment/delete?equipmentId='+row.equipmentId+'" class="btnList" title="${text("删除设备")}" data-confirm="${text("确认要删除该设备吗？")}"><i class="fa fa-trash-o"></i></a>&nbsp;');
+			<% } %>
+			return actions.join('');
+		}}
+	],
+	// 加载成功后执行事件
+	ajaxSuccess: function(data){
+
+	}
+});
+</script>

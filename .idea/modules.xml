@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common/jeesite-common.iml" filepath="$PROJECT_DIR$/common/jeesite-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/core/jeesite-module-core.iml" filepath="$PROJECT_DIR$/modules/core/jeesite-module-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/jeesite-parent.iml" filepath="$PROJECT_DIR$/parent/jeesite-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/root/jeesite-root.iml" filepath="$PROJECT_DIR$/root/jeesite-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/jeesite-web.iml" filepath="$PROJECT_DIR$/web/jeesite-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jeesite4.iml" filepath="$PROJECT_DIR$/.idea/jeesite4.iml" />
+    </modules>
+  </component>
+</project>
